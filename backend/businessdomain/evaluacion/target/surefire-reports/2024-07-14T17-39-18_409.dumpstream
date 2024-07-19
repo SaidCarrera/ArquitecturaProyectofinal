@@ -1,0 +1,5 @@
+# Created at 2024-07-14T17:39:45.741
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Proyectos\UDLA\Evaluaytor\codigofuente\evaluaytor\backend\businessdomain\evaluacion\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
